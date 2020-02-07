@@ -4,5 +4,5 @@ for the educational purpose of learning C++
 I dont claim original rights of the code ! 
 
 
-Snake game original video
+Snake game NVitanovic channel original video
 https://www.youtube.com/watch?v=E_-lMZDi7Uw
